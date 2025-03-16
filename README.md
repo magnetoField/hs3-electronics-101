@@ -1,3 +1,4 @@
+![Plakat](101_electronics.png)
 # 101 Electronics
 Kurs elektroniki odbywający się w Hackerspace Trójmiasto.
 
@@ -21,3 +22,8 @@ Na początek warto wyposażyć się w narzędzia do produkcji PCB aby prototypow
 * Fake perpetum mobile
   
 przynieś własne pomysły! 
+
+# Spotkania
+Widzimy się w każdą środę w hs3 o 20:00.
+Zaczynamy 26.03.2025 roku.
+
