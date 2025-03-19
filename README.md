@@ -19,6 +19,7 @@ Na początek warto wyposażyć się w narzędzia do produkcji PCB aby prototypow
 * Lewitron
 * Mikrofon referencyjny
 * Wzmacniacz lampowy
+* UPS dla mikrokontrolera
 * Fake perpetum mobile
   
 przynieś własne pomysły! 
